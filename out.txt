@@ -1,0 +1,30 @@
+1.27 	 # 	 New customer arrived and queued.
+1.27 	 @ 	 Customer assigned to server 1 and is set to finish in 13.86
+1.63 	 # 	 New customer arrived and queued.
+1.63 	 @ 	 Customer assigned to server 2 and is set to finish in 9.28
+1.71 	 # 	 New customer arrived and queued.
+1.99 	 # 	 New customer arrived and queued.
+2.95 	 # 	 New customer arrived and queued.
+3.07 	 # 	 New customer arrived and queued.
+3.28 	 # 	 New customer arrived and queued.
+3.52 	 # 	 New customer arrived and queued.
+3.64 	 # 	 New customer arrived and queued.
+4.46 	 # 	 New customer arrived and queued.
+9.28 	 * 	 Server 2 finished proccessing and is free.
+9.28 	 @ 	 Customer assigned to server 2 and is set to finish in 17.42
+13.86 	 * 	 Server 1 finished proccessing and is free.
+13.86 	 @ 	 Customer assigned to server 1 and is set to finish in 25.33
+17.42 	 * 	 Server 2 finished proccessing and is free.
+17.42 	 @ 	 Customer assigned to server 2 and is set to finish in 27.81
+25.33 	 * 	 Server 1 finished proccessing and is free.
+25.33 	 @ 	 Customer assigned to server 1 and is set to finish in 32.55
+27.81 	 * 	 Server 2 finished proccessing and is free.
+27.81 	 @ 	 Customer assigned to server 2 and is set to finish in 38.39
+32.55 	 * 	 Server 1 finished proccessing and is free.
+32.55 	 @ 	 Customer assigned to server 1 and is set to finish in 43.91
+38.39 	 * 	 Server 2 finished proccessing and is free.
+38.39 	 @ 	 Customer assigned to server 2 and is set to finish in 48.9
+43.91 	 * 	 Server 1 finished proccessing and is free.
+43.91 	 @ 	 Customer assigned to server 1 and is set to finish in 53.41
+48.9 	 * 	 Server 2 finished proccessing and is free.
+53.41 	 * 	 Server 1 finished proccessing and is free.
