@@ -1,10 +1,8 @@
 # Single Queue Simulation
 
-## Intruduction
+The Single Queue Simulation is an implementation of a simulation model with multiple servers and queue priority. It simulates a system where customers arrive, join a single queue, and are served by a specified number of employees (servers). The simulation takes input parameters and generates statistics based on the simulated events.
 
-Implementation of single queue simulation with multiple servers and queue priority.
-
-The parameters below are taken as input and the simulation is run based on the specified parameters:
+The simulation model considers the following parameters:
 
 - `NUMBER_OF_CUSTOMERS`: The number of customers in the calling population.
 - `NUMBER_OF_EMPLOYEES`: THe number of employees (resources, servers, etc.) that handle customer requests.
@@ -12,13 +10,19 @@ The parameters below are taken as input and the simulation is run based on the s
 - `LOGGING`: Whether to log the events of the system in the `out.txt` file.
 
 ## Usage
+To run the Single Queue Simulation, follow these steps:
+1. Navigate to the "src" folder in your command line or terminal:
 
+```bash
+cd src
+```
+2. Execute the simulation by running the python . command:
 ```bash
 python .
 ```
 
 ## Sample Stats
-
+After running the simulation, you will obtain various statistics and visualizations. Here are some sample statistics:
 ### Charts:
 
 ![NC Chart](nc.png "NC")
@@ -26,7 +30,7 @@ python .
 
 
 ### Customer Statistics:
-
+The following statistics provide insights into the customers' experience:
 ```bash
 Simulation states (first 10 rows):
    Arrival Time  Service Start  Service End  Service Time  Service Wait  Total Time  Server #
